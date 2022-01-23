@@ -14,7 +14,7 @@ Brief instructions on the main menu items:
 1. Log in to the UnionPoint system
 2. Go to the Processing menu item and observe the ongoing processes in the enterprise, add your own process if you wish
 3. Go to the Controlling menu item and mark those processes that have already been completed
-4. If you have any questions, write to those. support (bottom menu item)
+4. If you have any questions, write to technical support (bottom menu item)
 5. Edit this text - link at the very bottom of the page
 6. Change and fix the color of the page, if desired
 

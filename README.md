@@ -17,3 +17,5 @@ Brief instructions on the main menu items:
 4. If you have any questions, write to those. support (bottom menu item)
 5. Edit this text - link at the very bottom of the page
 6. Change and fix the color of the page, if desired
+
+Summary. This UnionPoint system is the base on which you can build and improve your systems for managing an enterprise and production processes. The work has been tested under Windows 11, XAMPP v.3.3.0 (10.4.22-MariaDB).

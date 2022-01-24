@@ -18,7 +18,6 @@ Brief instructions on the main menu items:
 5. Edit this text - link at the very bottom of the page
 6. Change and fix the color of the page, if desired
 
-The test database is created automatically, but if it is not created, then all tables can be created through the import script in phpMyAdmin called 'unionpoint.sql' in the source directory.
-[unionpoint.sql.txt](https://github.com/alex1543/unionpoint.ru/files/7923094/unionpoint.sql.txt)
+The test database is created automatically, but if it is not created, then all tables can be created through the import script in phpMyAdmin called '[unionpoint.sql](https://github.com/alex1543/unionpoint.ru/files/7923094/unionpoint.sql.txt)' in the source directory.
 
 Summary. This UnionPoint system is the base on which you can build and improve your systems for managing an enterprise and production processes. The work has been tested under Windows 11, XAMPP v.3.3.0 (10.4.22-MariaDB).
